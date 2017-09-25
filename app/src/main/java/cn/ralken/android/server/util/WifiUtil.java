@@ -1,10 +1,5 @@
 package cn.ralken.android.server.util;
 
-import java.io.IOException;
-import java.net.InetAddress;
-
-import cn.ralken.android.server.udp.UDPBroadCast;
-
 import android.app.Activity;
 import android.content.Context;
 import android.net.ConnectivityManager;
@@ -14,6 +9,11 @@ import android.net.wifi.WifiInfo;
 import android.net.wifi.WifiManager;
 import android.text.format.Formatter;
 import android.util.Log;
+
+import java.io.IOException;
+import java.net.InetAddress;
+
+import cn.ralken.android.server.udp.UDPBroadCast;
 
 public class WifiUtil {
 

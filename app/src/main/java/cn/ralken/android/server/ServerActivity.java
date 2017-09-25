@@ -1,8 +1,5 @@
 package cn.ralken.android.server;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import android.app.Activity;
 import android.os.Bundle;
 import android.os.Handler;
@@ -14,6 +11,9 @@ import android.widget.BaseAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import java.util.ArrayList;
+import java.util.List;
 
 import cn.ralken.android.server.udp.TCPServer;
 import cn.ralken.android.server.udp.TCPServer.OnClientRequestListener;
