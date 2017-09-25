@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#0099cc"
-    tools:context=".ServerActivity" >
+    tools:context="cn.ralken.android.server.ServerActivity" >
 
     <TextView
         android:id="@+id/logItemText"
