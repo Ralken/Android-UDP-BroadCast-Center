@@ -1,2 +1,4 @@
 # Android-UDP-BroadCast-Client
-A sample project that implements UDP broadcast on android client.
+A sample project that demonstrates how to implement UDP broadcast on android client.
+
+![Android ScreenShot](udp_screenshot.png)
